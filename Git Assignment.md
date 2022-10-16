@@ -1,9 +1,6 @@
 # Task 1
 - Demonstrate minimum 15 basic Git command with explanation and screenshot.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 ### git init :
 ```bash
 git init
@@ -96,6 +93,36 @@ Checkout this Repo:- https://github.com/sai-123-code/Ineuron_Industry_ready_task
 <img width="769" alt="task_1 2" src="https://user-images.githubusercontent.com/70212207/196038642-6f37bae6-7473-465f-8c57-34a5ee42261c.png">
 
 
-# Also added Collaborators:
+## Also added Collaborators:
+<img width="928" alt="task_1 2 2" src="https://user-images.githubusercontent.com/70212207/196038771-6cc57706-71eb-4bf4-8750-13cf8163da47.png">
 
-![git-collab](https://user-images.githubusercontent.com/59412013/195390027-89a97f80-e3fd-4e09-9443-6dc4a0571efe.png)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Task 3 
+1. Create a Issue in your github repository.
+2. Raise a pull request.
+3. Merge A pull request.
+<img width="920" alt="pull request" src="https://user-images.githubusercontent.com/70212207/196039231-3c8125e1-f02d-4263-8263-889cd60eb772.png">
+
+
+4. Reject a pull request with proper comments.
+<img width="685" alt="task1 3" src="https://user-images.githubusercontent.com/70212207/196039150-93b1e65e-9df6-4975-a552-fecbb60bb6e7.png">
+
+
+
+5. Add a Dependabot alerts in your github.(for above cases)
+
+<img width="803" alt="depend" src="https://user-images.githubusercontent.com/70212207/196038927-7396cc4b-1a5b-445e-91bf-db8df1da7f39.png">
+
+
+6. Stash changes
+```bash
+git stash
+```
+<img width="573" alt="git stash" src="https://user-images.githubusercontent.com/70212207/196038914-2a6714b9-bc1f-45c7-a2f4-840ebc2fc9b7.png">
+
+7 .Create a release your package
+<img width="920" alt="release" src="https://user-images.githubusercontent.com/70212207/196039510-0aabd253-ebb6-4ca1-b3f5-244da7badf89.png">
+
+
