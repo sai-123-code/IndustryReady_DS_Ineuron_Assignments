@@ -90,12 +90,16 @@ git push origin main
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Checkout this Repo:- https://github.com/sai-123-code/Ineuron_Industry_ready_task1.2.git
+
 <img width="769" alt="task_1 2" src="https://user-images.githubusercontent.com/70212207/196038642-6f37bae6-7473-465f-8c57-34a5ee42261c.png">
 
 
 ## Also added Collaborators:
+
 <img width="928" alt="task_1 2 2" src="https://user-images.githubusercontent.com/70212207/196038771-6cc57706-71eb-4bf4-8750-13cf8163da47.png">
 
+## Publish Github Page
+https://sai-123-code.github.io/Ineuron_Industry_ready_task1.2/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
