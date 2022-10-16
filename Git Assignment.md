@@ -69,7 +69,7 @@ git merge dev1
 
 ### git clone :
 ```bash
-git clone https://github.com/pydeveloperashish/Ineuron-DSIRP-Assignments.git
+git clone https://github.com/sai-123-code/IndustryReady_DS_Ineuron_Assignments.git
 ```
 <img width="665" alt="clone" src="https://user-images.githubusercontent.com/70212207/196038192-19f67827-8c86-4542-82a5-5d9427af9c47.png">
 
