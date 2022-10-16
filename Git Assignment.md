@@ -81,3 +81,21 @@ git push origin main
 <img width="514" alt="push" src="https://user-images.githubusercontent.com/70212207/196037584-034e06af-9102-451f-9d79-90c98c05924c.png">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Task 2 
+- Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
+1. Proper open source structure 
+2. Proper Readme
+3. Add 2 collaborator 
+4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Checkout this Repo:- https://github.com/sai-123-code/Ineuron_Industry_ready_task1.2.git
+<img width="769" alt="task_1 2" src="https://user-images.githubusercontent.com/70212207/196038642-6f37bae6-7473-465f-8c57-34a5ee42261c.png">
+
+
+# Also added Collaborators:
+
+![git-collab](https://user-images.githubusercontent.com/59412013/195390027-89a97f80-e3fd-4e09-9443-6dc4a0571efe.png)
